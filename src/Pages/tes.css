@@ -1,22 +1,4 @@
-.login{
-    width: 100vw;
-    height: 100vh;
+*{
     background: rgb(229, 237, 240);
-    display: flex;
-
-}
-.iconleft{
-    width: 60vw;
-    height: 90vh;
-    margin: 5vh;
-
-}
-.latar {
-margin-left: 10vw;
-}
-.login-box{
-    width: 40vw;
-    height: 90vh;
-    margin: 5vh;
-
+    font-family :  "Poppins" ;
 }
